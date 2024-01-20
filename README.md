@@ -1,1 +1,1 @@
-# learning-git
+# git-learning-pt2
